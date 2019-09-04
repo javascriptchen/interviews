@@ -1,1 +1,1 @@
-![面试题的xmind预览图片](https://user-gold-cdn.xitu.io/2019/9/4/16cfce00eb7c058a?w=2535&h=8939&f=jpeg&s=2183661)
+![image](https://github.com/javascriptchen/interviews/raw/master/images/interviews.jpg)
